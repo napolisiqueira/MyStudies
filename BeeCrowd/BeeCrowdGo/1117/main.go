@@ -24,6 +24,6 @@ func main() {
 		}
 	}
 	var media float64 = (num1 + num2) / 2
-	fmt.Printf("media = %f.2f\n", media)
+	fmt.Printf("media = %.2f\n", media)
 
 }
